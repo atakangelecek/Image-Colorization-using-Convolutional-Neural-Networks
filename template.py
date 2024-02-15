@@ -1,15 +1,3 @@
-# Feel free to change / extend / adapt this source code as needed to complete the homework, based on its requirements.
-# This code is given as a starting point.
-#
-# REFEFERENCES
-# The code is partly adapted from pytorch tutorials, including https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
-
-# ---- hyper-parameters ----
-# You should tune these hyper-parameters using:
-# (i) your reasoning and observations, 
-# (ii) by tuning it on the validation set, using the techniques discussed in class.
-# You definitely can add more hyper-parameters here.
-
 # --- imports ---
 import torch
 import os
